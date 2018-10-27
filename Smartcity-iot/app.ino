@@ -26,8 +26,8 @@ WiFiClientSecure client;
 
 // -- Variáveis e constantes --
 
-const char *ssid = "familia souza";
-const char *password = "34632010";
+const char *ssid = "Insira seu SSID";
+const char *password = "Insira a senha";
 const char* host = "script.google.com";
 const int httpsPort = 443;
 const char* fingerprint = "46 B2 C3 44 9C 59 09 8B 01 B6 F8 BD 4C FB 00 74 91 2F EF F6";
